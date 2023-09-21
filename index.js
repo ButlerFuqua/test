@@ -1,3 +1,3 @@
-console.log(`better test`);
+console.log(`better test 1`);
 
 const data = `new line 1`;
